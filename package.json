@@ -8,7 +8,7 @@
   "repository": "juliangruber/abstract-chunk-transport",
   "devDependencies": {
     "memory-chunk-store": "^1.2.0",
-    "tape": "*"
+    "tape": "^4.2.1"
   },
   "license": "MIT",
   "dependencies": {
