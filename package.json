@@ -1,6 +1,6 @@
 {
   "name": "abstract-chunk-transport",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Access an abstract-chunk-store over any stream",
   "scripts": {
     "test": "make test"
