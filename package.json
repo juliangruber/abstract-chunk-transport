@@ -12,6 +12,8 @@
   },
   "license": "MIT",
   "dependencies": {
-    "rpc-stream": "^2.1.1"
+    "msgpack-stream": "0.0.12",
+    "rpc-stream": "^2.1.1",
+    "stream-combiner": "^0.2.2"
   }
 }

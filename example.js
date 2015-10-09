@@ -17,7 +17,11 @@ server.listen(9000, function(){
     if (err) throw err;
     client.get(0, function(err, buf){
       if (err) throw err;
+
       console.log('BUF', buf, buf.toString());
+
+      server.close();
+      con.end();
     });
   });
 });
