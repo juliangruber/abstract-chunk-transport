@@ -3,6 +3,8 @@
 
   Access an [abstract-chunk-store](https://npmjs.org/package/abstract-chunk-store) over any stream.
 
+[![abstract chunk store](https://cdn.rawgit.com/mafintosh/abstract-chunk-store/master/badge.svg)](https://github.com/mafintosh/abstract-chunk-store)
+
 ## Example
 
 ```js
